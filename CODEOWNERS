@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @Appleuha
+/src/backend/database.py      @Appleuha
+/src/backend/routers/auth.py  @Appleuha
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @Appleuha
